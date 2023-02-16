@@ -99,7 +99,7 @@ urllib3==1.26.14
 validators==0.20.0
 wasabi==0.10.1
 watchdog==2.2.1
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 wrapt==1.14.1
 zipp==3.12.1
 click==7.0
